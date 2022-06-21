@@ -96,7 +96,8 @@ p {
    width: 20%;
    transform: rotate(25deg);
    position: absolute;
-   right: 30%
+   right: 30%;
+  border-radius: 50%;
 }
 
 
